@@ -46,3 +46,733 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+Assets/AllIn1SpriteShader.meta
+Assets/AllIn1SpriteShader/Demo.meta
+Assets/AllIn1SpriteShader/Demo/Animation.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Alpha Cutoff.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Alpha Cutoff.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/AlphaCutoff.anim
+Assets/AllIn1SpriteShader/Demo/Animation/AlphaCutoff.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/AtlasSpriteBoy.controller
+Assets/AllIn1SpriteShader/Demo/Animation/AtlasSpriteBoy.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Blur.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Blur.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Blur.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Blur.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Burn.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Burn.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Burn.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Burn.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/BurningSoldier.anim
+Assets/AllIn1SpriteShader/Demo/Animation/BurningSoldier.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/BurningSoldier.controller
+Assets/AllIn1SpriteShader/Demo/Animation/BurningSoldier.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Fade.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Fade.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Fade.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Fade.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Fill Amount 1.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Fill Amount 1.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Fill Amount.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Fill Amount.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/FillAmount.anim
+Assets/AllIn1SpriteShader/Demo/Animation/FillAmount.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Fish Eye.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Fish Eye.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Frame.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Frame.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Hallucination.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Hallucination.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Hit Effect 1.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Hit Effect 1.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Hit Effect.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Hit Effect.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/HitEffect.anim
+Assets/AllIn1SpriteShader/Demo/Animation/HitEffect.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Hologram.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Hologram.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/hpBar.anim
+Assets/AllIn1SpriteShader/Demo/Animation/hpBar.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/IceSoldier.anim
+Assets/AllIn1SpriteShader/Demo/Animation/IceSoldier.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/IceSoldier.controller
+Assets/AllIn1SpriteShader/Demo/Animation/IceSoldier.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Impact.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Impact.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Impact1.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Impact1.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/MotionBlur.anim
+Assets/AllIn1SpriteShader/Demo/Animation/MotionBlur.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Offset.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Offset.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Offset.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Offset.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Original.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Original.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Posterize.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Posterize.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Posterize.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Posterize.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Rotate.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Rotate.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Rotate.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Rotate.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Shield Soldier.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Shield Soldier.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/ShieldSparksPS.anim
+Assets/AllIn1SpriteShader/Demo/Animation/ShieldSparksPS.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Shine.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Shine.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Shine.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Shine.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/ShinyBoy.anim
+Assets/AllIn1SpriteShader/Demo/Animation/ShinyBoy.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Soldier.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Soldier.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/SoldierRun.anim
+Assets/AllIn1SpriteShader/Demo/Animation/SoldierRun.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Sprite.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Sprite.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Teleport.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Teleport.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Twist 1.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Twist 1.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Twist.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Twist.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Twist.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Twist.controller.meta
+Assets/AllIn1SpriteShader/Demo/Animation/TwistDisappear.anim
+Assets/AllIn1SpriteShader/Demo/Animation/TwistDisappear.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Zoom.anim
+Assets/AllIn1SpriteShader/Demo/Animation/Zoom.anim.meta
+Assets/AllIn1SpriteShader/Demo/Animation/Zoom.controller
+Assets/AllIn1SpriteShader/Demo/Animation/Zoom.controller.meta
+Assets/AllIn1SpriteShader/Demo/Demo.unity
+Assets/AllIn1SpriteShader/Demo/Demo.unity.meta
+Assets/AllIn1SpriteShader/Demo/Demo2.unity
+Assets/AllIn1SpriteShader/Demo/Demo2.unity.meta
+Assets/AllIn1SpriteShader/Demo/Fonts.meta
+Assets/AllIn1SpriteShader/Demo/Fonts/CaviarDreams.ttf
+Assets/AllIn1SpriteShader/Demo/Fonts/CaviarDreams.ttf.meta
+Assets/AllIn1SpriteShader/Demo/Fonts/CaviarDreams_Bold.ttf
+Assets/AllIn1SpriteShader/Demo/Fonts/CaviarDreams_Bold.ttf.meta
+Assets/AllIn1SpriteShader/Demo/Materials.meta
+Assets/AllIn1SpriteShader/Demo/Materials/Fire.mat
+Assets/AllIn1SpriteShader/Demo/Materials/Fire.mat.meta
+Assets/AllIn1SpriteShader/Demo/Materials/FireSoldier.mat
+Assets/AllIn1SpriteShader/Demo/Materials/FireSoldier.mat.meta
+Assets/AllIn1SpriteShader/Demo/Materials/Ice.mat
+Assets/AllIn1SpriteShader/Demo/Materials/Ice.mat.meta
+Assets/AllIn1SpriteShader/Demo/Materials/IceSoldier.mat
+Assets/AllIn1SpriteShader/Demo/Materials/IceSoldier.mat.meta
+Assets/AllIn1SpriteShader/Demo/Materials/Outline1.mat
+Assets/AllIn1SpriteShader/Demo/Materials/Outline1.mat.meta
+Assets/AllIn1SpriteShader/Demo/Materials/Shield.mat
+Assets/AllIn1SpriteShader/Demo/Materials/Shield.mat.meta
+Assets/AllIn1SpriteShader/Demo/Materials/ShieldSoldier.mat
+Assets/AllIn1SpriteShader/Demo/Materials/ShieldSoldier.mat.meta
+Assets/AllIn1SpriteShader/Demo/Materials/SnowFlake.mat
+Assets/AllIn1SpriteShader/Demo/Materials/SnowFlake.mat.meta
+Assets/AllIn1SpriteShader/Demo/Materials/Sparks.mat
+Assets/AllIn1SpriteShader/Demo/Materials/Sparks.mat.meta
+Assets/AllIn1SpriteShader/Demo/Scripts.meta
+Assets/AllIn1SpriteShader/Demo/Scripts/All1ShaderDemoController.cs
+Assets/AllIn1SpriteShader/Demo/Scripts/All1ShaderDemoController.cs.meta
+Assets/AllIn1SpriteShader/Demo/Scripts/Demo2AutoScroll.cs
+Assets/AllIn1SpriteShader/Demo/Scripts/Demo2AutoScroll.cs.meta
+Assets/AllIn1SpriteShader/Demo/Scripts/DemoCamera.cs
+Assets/AllIn1SpriteShader/Demo/Scripts/DemoCamera.cs.meta
+Assets/AllIn1SpriteShader/Demo/Scripts/DemoCircleExpositor.cs
+Assets/AllIn1SpriteShader/Demo/Scripts/DemoCircleExpositor.cs.meta
+Assets/AllIn1SpriteShader/Demo/Scripts/DemoItem.cs
+Assets/AllIn1SpriteShader/Demo/Scripts/DemoItem.cs.meta
+Assets/AllIn1SpriteShader/Demo/Scripts/DemoRandomColorSwap.cs
+Assets/AllIn1SpriteShader/Demo/Scripts/DemoRandomColorSwap.cs.meta
+Assets/AllIn1SpriteShader/Demo/Textures.meta
+Assets/AllIn1SpriteShader/Demo/Textures/backMountain.png
+Assets/AllIn1SpriteShader/Demo/Textures/backMountain.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/BoyGirl.png
+Assets/AllIn1SpriteShader/Demo/Textures/BoyGirl.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/Circle.png
+Assets/AllIn1SpriteShader/Demo/Textures/Circle.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/coals.png
+Assets/AllIn1SpriteShader/Demo/Textures/coals.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/coalsEmissive.png
+Assets/AllIn1SpriteShader/Demo/Textures/coalsEmissive.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/flag.png
+Assets/AllIn1SpriteShader/Demo/Textures/flag.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/grass.png
+Assets/AllIn1SpriteShader/Demo/Textures/grass.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/IceTexture.png
+Assets/AllIn1SpriteShader/Demo/Textures/IceTexture.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/shield.png
+Assets/AllIn1SpriteShader/Demo/Textures/shield.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/shieldGlow.png
+Assets/AllIn1SpriteShader/Demo/Textures/shieldGlow.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/snowFlake.png
+Assets/AllIn1SpriteShader/Demo/Textures/snowFlake.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/spaceSoldier.png
+Assets/AllIn1SpriteShader/Demo/Textures/spaceSoldier.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/spaceSoldierColorSwap.png
+Assets/AllIn1SpriteShader/Demo/Textures/spaceSoldierColorSwap.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/spaceSoldierGlow.png
+Assets/AllIn1SpriteShader/Demo/Textures/spaceSoldierGlow.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/spaceSoldierNormal.png
+Assets/AllIn1SpriteShader/Demo/Textures/spaceSoldierNormal.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/spark.png
+Assets/AllIn1SpriteShader/Demo/Textures/spark.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/Square.png
+Assets/AllIn1SpriteShader/Demo/Textures/Square.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/sunDoodle.png
+Assets/AllIn1SpriteShader/Demo/Textures/sunDoodle.png.meta
+Assets/AllIn1SpriteShader/Demo/Textures/water.png
+Assets/AllIn1SpriteShader/Demo/Textures/water.png.meta
+Assets/AllIn1SpriteShader/Documentation.pdf
+Assets/AllIn1SpriteShader/Documentation.pdf.meta
+Assets/AllIn1SpriteShader/Editor.meta
+Assets/AllIn1SpriteShader/Editor/AllIn1ShaderScriptEditor.cs
+Assets/AllIn1SpriteShader/Editor/AllIn1ShaderScriptEditor.cs.meta
+Assets/AllIn1SpriteShader/Editor/AllIn1SpriteShader.cs
+Assets/AllIn1SpriteShader/Editor/AllIn1SpriteShader.cs.meta
+Assets/AllIn1SpriteShader/Editor/AllIn1SpriteShaderStencil.cs
+Assets/AllIn1SpriteShader/Editor/AllIn1SpriteShaderStencil.cs.meta
+Assets/AllIn1SpriteShader/Materials.meta
+Assets/AllIn1SpriteShader/Materials/EmptyMaterial.mat
+Assets/AllIn1SpriteShader/Materials/EmptyMaterial.mat.meta
+Assets/AllIn1SpriteShader/Materials/UIStencil.mat
+Assets/AllIn1SpriteShader/Materials/UIStencil.mat.meta
+Assets/AllIn1SpriteShader/Materials/UnscaledTIme.mat
+Assets/AllIn1SpriteShader/Materials/UnscaledTIme.mat.meta
+Assets/AllIn1SpriteShader/Resources.meta
+Assets/AllIn1SpriteShader/Resources/AllIn1OneShaderFunctions.cginc
+Assets/AllIn1SpriteShader/Resources/AllIn1OneShaderFunctions.cginc.meta
+Assets/AllIn1SpriteShader/Resources/AllIn1SpriteShader.shader
+Assets/AllIn1SpriteShader/Resources/AllIn1SpriteShader.shader.meta
+Assets/AllIn1SpriteShader/Resources/AllIn1SpriteShaderScaledTime.shader
+Assets/AllIn1SpriteShader/Resources/AllIn1SpriteShaderScaledTime.shader.meta
+Assets/AllIn1SpriteShader/Resources/AllIn1SpriteShaderUiMask.shader
+Assets/AllIn1SpriteShader/Resources/AllIn1SpriteShaderUiMask.shader.meta
+Assets/AllIn1SpriteShader/Scripts.meta
+Assets/AllIn1SpriteShader/Scripts/All1CreateUnifiedOutline.cs
+Assets/AllIn1SpriteShader/Scripts/All1CreateUnifiedOutline.cs.meta
+Assets/AllIn1SpriteShader/Scripts/AllIn1Shader.cs
+Assets/AllIn1SpriteShader/Scripts/AllIn1Shader.cs.meta
+Assets/AllIn1SpriteShader/Scripts/AllIn1ShaderWindow.cs
+Assets/AllIn1SpriteShader/Scripts/AllIn1ShaderWindow.cs.meta
+Assets/AllIn1SpriteShader/Scripts/RandomSeed.cs
+Assets/AllIn1SpriteShader/Scripts/RandomSeed.cs.meta
+Assets/AllIn1SpriteShader/Scripts/SetAtlasUvs.cs
+Assets/AllIn1SpriteShader/Scripts/SetAtlasUvs.cs.meta
+Assets/AllIn1SpriteShader/Scripts/SetGlobalTime.cs
+Assets/AllIn1SpriteShader/Scripts/SetGlobalTime.cs.meta
+Assets/AllIn1SpriteShader/Textures.meta
+Assets/AllIn1SpriteShader/Textures/CustomEditorImage.png
+Assets/AllIn1SpriteShader/Textures/CustomEditorImage.png.meta
+Assets/AllIn1SpriteShader/Textures/fire.png
+Assets/AllIn1SpriteShader/Textures/fire.png.meta
+Assets/AllIn1SpriteShader/Textures/fire2.png
+Assets/AllIn1SpriteShader/Textures/fire2.png.meta
+Assets/AllIn1SpriteShader/Textures/flameNoise.png
+Assets/AllIn1SpriteShader/Textures/flameNoise.png.meta
+Assets/AllIn1SpriteShader/Textures/flameNoise2.png
+Assets/AllIn1SpriteShader/Textures/flameNoise2.png.meta
+Assets/AllIn1SpriteShader/Textures/gradient.png
+Assets/AllIn1SpriteShader/Textures/gradient.png.meta
+Assets/AllIn1SpriteShader/Textures/gradient2.png
+Assets/AllIn1SpriteShader/Textures/gradient2.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-bumbleberry.psd
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-bumbleberry.psd.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-cool.psd
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-cool.psd.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-downwell.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-downwell.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-earthy.psd
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-earthy.psd.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-gameboy-pop-1x.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-gameboy-pop-1x.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-gameboy.psd
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-gameboy.psd.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-metroid-ii-sgb-1x.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-metroid-ii-sgb-1x.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-mist-gb-1x.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-mist-gb-1x.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-neapolitan.psd
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-neapolitan.psd.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-nintendo-gameboy-bgb-1x.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-nintendo-gameboy-bgb-1x.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-nintendo-gameboy-black-zero-1x.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-nintendo-gameboy-black-zero-1x.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-platinum-1x.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/palette-platinum-1x.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/shadeRamp.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/shadeRamp.png.meta
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/toonShadeRamp.png
+Assets/AllIn1SpriteShader/Textures/PaletteTextures/toonShadeRamp.png.meta
+Assets/AllIn1SpriteShader/Textures/rainbow.png
+Assets/AllIn1SpriteShader/Textures/rainbow.png.meta
+Assets/AllIn1SpriteShader/Textures/seamlessNoise.png
+Assets/AllIn1SpriteShader/Textures/seamlessNoise.png.meta
+Assets/AllIn1SpriteShader/Textures/toonSeamlessNoise.png
+Assets/AllIn1SpriteShader/Textures/toonSeamlessNoise.png.meta
+Assets/AllIn1SpriteShader/Textures/UVChecker.png
+Assets/AllIn1SpriteShader/Textures/UVChecker.png.meta
+Assets/Brackeys/2D Mega Pack.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/ArcadeGreyBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/ArcadeGreyBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/BlueBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/BlueBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/BrickBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/BrickBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/DarkBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/DarkBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/DustyBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/DustyBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/FieldBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/FieldBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Backgrounds/SkyBackground.png
+Assets/Brackeys/2D Mega Pack/Backgrounds/SkyBackground.png.meta
+Assets/Brackeys/2D Mega Pack/Effects.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.anim
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.anim.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.controller
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.controller.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.anim
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.anim.meta
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.controller
+Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.controller.meta
+Assets/Brackeys/2D Mega Pack/Effects/Fireball.png
+Assets/Brackeys/2D Mega Pack/Effects/Fireball.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash1.png
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash1.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash2.png
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash2.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash3.png
+Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash3.png.meta
+Assets/Brackeys/2D Mega Pack/Effects/PixelParticle.png
+Assets/Brackeys/2D Mega Pack/Effects/PixelParticle.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies.meta
+Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png
+Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Bullet.png
+Assets/Brackeys/2D Mega Pack/Enemies/Bullet.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Canon.png
+Assets/Brackeys/2D Mega Pack/Enemies/Canon.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Crow.png
+Assets/Brackeys/2D Mega Pack/Enemies/Crow.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/FireheadEnemy.png
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/FireheadEnemy.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy01.png
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy01.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy02.png
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy02.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy03.png
+Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy03.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle.anim
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle.anim.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle_0.controller
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle_0.controller.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.anim
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.anim.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.controller
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.controller.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Beetle.png
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/Beetle.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/GiantBeetle.png
+Assets/Brackeys/2D Mega Pack/Enemies/Insects/GiantBeetle.png.meta
+Assets/Brackeys/2D Mega Pack/Enemies/SpikyBall.png
+Assets/Brackeys/2D Mega Pack/Enemies/SpikyBall.png.meta
+Assets/Brackeys/2D Mega Pack/Environment.meta
+Assets/Brackeys/2D Mega Pack/Environment/Arcade.meta
+Assets/Brackeys/2D Mega Pack/Environment/Arcade/Maze.png
+Assets/Brackeys/2D Mega Pack/Environment/Arcade/Maze.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame1.png
+Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame1.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame2.png
+Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame2.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Barrel.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Barrel.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Left.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Left.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Mid.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Mid.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Right.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Right.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/DirtRow.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/DirtRow.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/ExtraDirt.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/ExtraDirt.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/TableLog.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/TableLog.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/TrashCan.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/TrashCan.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Truck.png
+Assets/Brackeys/2D Mega Pack/Environment/Farming/Truck.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Grass.png
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Grass.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Ground.png
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Ground.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Pyramids.png
+Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Pyramids.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door_NoGround.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door_NoGround.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp_NoGround.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp_NoGround.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Gravestone.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Gravestone.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram_Activated.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram_Activated.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Room.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Room.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Stone.png
+Assets/Brackeys/2D Mega Pack/Environment/Gothic/Stone.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/ApartmentLevel.png
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/ApartmentLevel.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/Car.png
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/Car.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/Road.png
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/Road.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/RoadTurn.png
+Assets/Brackeys/2D Mega Pack/Environment/Grungy/RoadTurn.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Mountains&Platforms.png
+Assets/Brackeys/2D Mega Pack/Environment/Mountains&Platforms.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Building.png
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Building.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Ground&Sky.png
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Ground&Sky.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree01.png
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree01.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree02.png
+Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree02.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/CheckerTile.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/CheckerTile.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/GroundTile.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/GroundTile.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/HollowTile.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/HollowTile.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/PlatformerTiles.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/PlatformerTiles.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile.png.meta
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile_Down.png
+Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile_Down.png.meta
+Assets/Brackeys/2D Mega Pack/Extra.meta
+Assets/Brackeys/2D Mega Pack/Extra/Shadow.png
+Assets/Brackeys/2D Mega Pack/Extra/Shadow.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueButton.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueButton.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueDoor.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueDoor.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Bullet.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Bullet.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Coin.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Coin.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenButton.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenButton.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenDoor.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenDoor.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Spawn.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Spawn.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Turret.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Turret.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Coin.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Coin.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Crate.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Crate.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable2.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable2.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.anim
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.anim.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.controller
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.controller.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Diamond.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Diamond.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Gold01.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Gold01.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Harpoon.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Harpoon.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Hook.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Hook.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Phone.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Phone.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Tape.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Tape.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/TV_Animated.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/TV_Animated.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/Skull.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/Skull.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/SoulFragment.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/SoulFragment.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/Bullet.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/Bullet.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/ShotgunShell.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/ShotgunShell.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/WoodCrate.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/WoodCrate.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Ball.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Ball.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Goal.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Goal.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/MidLine.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/MidLine.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Wall.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Wall.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Castle.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Castle.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coal.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coal.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coin.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coin.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Crown.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Crown.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Diamond.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Diamond.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Earth.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Earth.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Egg.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Egg.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Enemy Army.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Enemy Army.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fire.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fire.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fireplace.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fireplace.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fish.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fish.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Friendly Army.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Friendly Army.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Glass.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Glass.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Hat.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Hat.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Heart.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Heart.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Iron.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Iron.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Magic Egg.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Magic Egg.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/MagicEssence.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/MagicEssence.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Meat.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Meat.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Potion.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Potion.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Rock.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Rock.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sand.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sand.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Scroll.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Scroll.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sheep.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sheep.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Slaves.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Slaves.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/TheRing.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/TheRing.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop1.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop1.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop2.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop2.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wood.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wood.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wool.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wool.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/World Ender.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/World Ender.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Humvee.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Humvee.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/MissileLauncher.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/MissileLauncher.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Tank.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Tank.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Turret.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Turret.png.meta
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Wall.png
+Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Wall.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue_Wide.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue_Wide.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Outline.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Outline.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink_Wide.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink_Wide.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored_Wide.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored_Wide.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Blue.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Blue.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Pink.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Pink.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Uncolored.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Uncolored.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood_Small.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood_Small.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood.png.meta
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood_Wide.png
+Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood_Wide.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Arrow.png
+Assets/Brackeys/2D Mega Pack/Shapes/Arrow.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Circle.png
+Assets/Brackeys/2D Mega Pack/Shapes/Circle.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Diamond.png
+Assets/Brackeys/2D Mega Pack/Shapes/Diamond.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/LargeRing.png
+Assets/Brackeys/2D Mega Pack/Shapes/LargeRing.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/LargeSquare.png
+Assets/Brackeys/2D Mega Pack/Shapes/LargeSquare.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Ring.png
+Assets/Brackeys/2D Mega Pack/Shapes/Ring.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Square.png
+Assets/Brackeys/2D Mega Pack/Shapes/Square.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Sugar.png
+Assets/Brackeys/2D Mega Pack/Shapes/Sugar.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/Triangle.png
+Assets/Brackeys/2D Mega Pack/Shapes/Triangle.png.meta
+Assets/Brackeys/2D Mega Pack/Shapes/X.png
+Assets/Brackeys/2D Mega Pack/Shapes/X.png.meta
+Assets/Brackeys/2D Mega Pack/Sounds.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav
+Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav
+Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Click.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Click.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav
+Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Explosion.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Explosion.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav
+Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav
+Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav
+Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Hit.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Hit.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav
+Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav
+Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Shot.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Shot.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Spawn.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Spawn.wav.meta
+Assets/Brackeys/2D Mega Pack/Sounds/Whoosh.wav
+Assets/Brackeys/2D Mega Pack/Sounds/Whoosh.wav.meta
+Assets/Brackeys/2D Mega Pack/UI.meta
+Assets/Brackeys/2D Mega Pack/UI/Arrow.png
+Assets/Brackeys/2D Mega Pack/UI/Arrow.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Cursors.meta
+Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Normal.png
+Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Normal.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Shoot.png
+Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Shoot.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Cursors/YellowCursor.png
+Assets/Brackeys/2D Mega Pack/UI/Cursors/YellowCursor.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Dialogue.png
+Assets/Brackeys/2D Mega Pack/UI/Dialogue.png.meta
+Assets/Brackeys/2D Mega Pack/UI/IconBox.png
+Assets/Brackeys/2D Mega Pack/UI/IconBox.png.meta
+Assets/Brackeys/2D Mega Pack/UI/ItemFrame.png
+Assets/Brackeys/2D Mega Pack/UI/ItemFrame.png.meta
+Assets/Brackeys/2D Mega Pack/UI/ItemPoolFrame.png
+Assets/Brackeys/2D Mega Pack/UI/ItemPoolFrame.png.meta
+Assets/Brackeys/2D Mega Pack/UI/Panel.png
+Assets/Brackeys/2D Mega Pack/UI/Panel.png.meta
+Assets/Brackeys/2D Mega Pack/UI/SpeechBubble.png
+Assets/Brackeys/2D Mega Pack/UI/SpeechBubble.png.meta
+Assets/Plugins/GitHub.meta
+Assets/Plugins/GitHub/Editor.meta
+Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+Assets/Plugins/GitHub/Editor/big-logo@2x.png
+Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+Assets/Plugins/GitHub/Editor/credits.txt
+Assets/Plugins/GitHub/Editor/credits.txt.meta
+Assets/Plugins/GitHub/Editor/eula.txt
+Assets/Plugins/GitHub/Editor/eula.txt.meta
+Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+Assets/Plugins/GitHub/Editor/libsfw.bundle
+Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+Assets/Plugins/GitHub/Editor/libsfw.so
+Assets/Plugins/GitHub/Editor/libsfw.so.meta
+Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+Assets/Plugins/GitHub/Editor/sfw.net.dll
+Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+Assets/Plugins/GitHub/Editor/System.Threading.dll
+Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+Assets/Plugins/GitHub/Editor/x64.meta
+Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+Assets/Plugins/GitHub/Editor/x86.meta
+Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+UserSettings/EditorUserSettings.asset
