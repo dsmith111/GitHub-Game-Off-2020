@@ -26,6 +26,7 @@ public class CameraController_Dynamic : MonoBehaviour
     private Vector3 dragOrigin;
     private bool isPanning;
     private GameObject orientationUIZoomedOut;
+    private GameObject gravityIndicator;
 
     private void Start()
     {
@@ -37,6 +38,7 @@ public class CameraController_Dynamic : MonoBehaviour
         enabled_dynamicCamera = true;
         targetSize = camera.orthographicSize; //sets zoom target to current camera size
         orientationUIZoomedOut = GameObject.Find("ZoomedOutOrientation");
+        gravityIndicator = GameObject.FindGameObjectWithTag("UI_gravityIndicator");
     }
 
 
@@ -110,6 +112,11 @@ public class CameraController_Dynamic : MonoBehaviour
         if (Input.GetMouseButton(1) && isPanning)
         {
             orientationUIZoomedOut.SetActive(false);
+            gravityIndicator.SetActive(false);
+        }
+        else
+        {
+            gravityIndicator.SetActive(true);
         }
 
         if (Input.GetMouseButtonDown(1))

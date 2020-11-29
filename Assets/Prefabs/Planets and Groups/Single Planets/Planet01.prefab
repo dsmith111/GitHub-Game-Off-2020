@@ -187,6 +187,7 @@ GameObject:
   - component: {fileID: -375132230661636873}
   - component: {fileID: -8124623747670906909}
   - component: {fileID: 8775679144308057386}
+  - component: {fileID: 4077776111263661153}
   m_Layer: 8
   m_Name: Planet01
   m_TagString: gbody
@@ -294,9 +295,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99839a551c701ad4fa2aa84bc79d8d76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 2500
+  maxDistance: 2000
   startingMass: 10
   initialVelocity: {x: 0, y: 0}
+  initialAngularDrag: 0.1
 --- !u!60 &8775679144308057386
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -450,3 +452,17 @@ PolygonCollider2D:
       - {x: -7.0710683, y: 7.071067}
       - {x: -6.7155895, y: 7.4095106}
       - {x: -6.343933, y: 7.730105}
+--- !u!114 &4077776111263661153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5594688318867920523}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c8deae30c16344abbfbf247cf37e40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  landingCounter: 0
+  fuelQuantity: 40000

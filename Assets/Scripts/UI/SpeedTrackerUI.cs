@@ -9,7 +9,7 @@ public class SpeedTrackerUI : MonoBehaviour
     public TextMeshProUGUI speedTMPro;
     public ShipController shipController;
 
-    public string text = "m/s: ";
+    public string text = "Km/s: ";
     public float speed;
     private double round;
 

@@ -36,11 +36,11 @@ public class DevTools : MonoBehaviour
             shipController.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 0);
         }
 
-        if (Input.GetKeyDown(KeyCode.T))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             Time.timeScale = timeScale;
         }
-        if (Input.GetKeyUp(KeyCode.T))
+        if (Input.GetKeyUp(KeyCode.Space))
         {
             Time.timeScale = 1f;
         }

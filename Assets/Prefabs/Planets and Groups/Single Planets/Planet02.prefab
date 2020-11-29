@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 2247542528143389397}
   - component: {fileID: 7920633938628714480}
   - component: {fileID: 3600756095032405823}
+  - component: {fileID: -3189348163724761468}
   m_Layer: 8
   m_Name: Planet02
   m_TagString: gbody
@@ -355,9 +356,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99839a551c701ad4fa2aa84bc79d8d76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 2500
+  maxDistance: 2000
   startingMass: 20
   initialVelocity: {x: 0, y: 0}
+  initialAngularDrag: 0.1
+--- !u!114 &-3189348163724761468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3809279591305232130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c8deae30c16344abbfbf247cf37e40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  landingCounter: 0
+  fuelQuantity: 50000
 --- !u!1 &8700082503878201202
 GameObject:
   m_ObjectHideFlags: 0

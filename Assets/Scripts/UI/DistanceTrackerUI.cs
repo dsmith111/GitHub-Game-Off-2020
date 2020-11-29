@@ -9,8 +9,10 @@ public class DistanceTrackerUI : MonoBehaviour
     public TextMeshProUGUI distanceTMPro;
     public DistanceTracker distanceTracker;
 
-    public string text = "Meters Traveled: ";
+    public string text = "Km Traveled: ";
     public float distanceVal = 0;
+
+    private double round;
 
     void Start()
     {
@@ -22,6 +24,7 @@ public class DistanceTrackerUI : MonoBehaviour
     void Update()
     {
         distanceVal = distanceTracker.distanceTraveled;
-        distanceTMPro.text = text + distanceVal;
+        round = System.Math.Round(distanceVal, 2);
+        distanceTMPro.text = text + round;
     }
 }

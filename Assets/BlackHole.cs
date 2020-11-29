@@ -4,35 +4,26 @@ using UnityEngine;
 
 public class BlackHole : MonoBehaviour
 {
-    public enum TriggerType {Enter, Exit};
 
-    [SerializeField] Transform teleportTo;
-    [SerializeField] string filterTag = "Player";
-    [SerializeField] TriggerType type;
+    [HideInInspector] [SerializeField] Rigidbody2D shipRb;
+
+    private void Awake()
+    {
+        shipRb = GameObject.Find("Ship New").GetComponent<Rigidbody2D>();
+    }
+
 
     public void OnTriggerEnter2D(Collider2D other)
     {
-        if (type != TriggerType.Enter)
-        {
-            return;
-        }
+        //Vector2 direction = new Vector2((float)Random.Range(-10, 10), (float)Random.Range(-10, 10));
+        //float force = (float)Random.Range(-10, 10);
 
-        if (tag == string.Empty || other.CompareTag(filterTag))
-        {
-            other.transform.position = teleportTo.position;
-        }
-    }
 
-    public void OnTriggerExit2D(Collider2D other)
-    {
-        if (type != TriggerType.Exit)
+        if (other.gameObject.tag == "Player")
         {
-            return;
-        }
 
-        if (tag == string.Empty || other.CompareTag(filterTag))
-        {
-            other.transform.position = teleportTo.position;
+            shipRb.transform.position = GameObject.FindWithTag("whitehole").transform.position;
+
         }
     }
 

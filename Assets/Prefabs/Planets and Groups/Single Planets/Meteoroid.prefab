@@ -106,6 +106,7 @@ GameObject:
   - component: {fileID: 508355853858920746}
   - component: {fileID: 7019429747617165812}
   - component: {fileID: 7019429747617165813}
+  - component: {fileID: 4045388976531302970}
   m_Layer: 8
   m_Name: Meteoroid
   m_TagString: Untagged
@@ -394,7 +395,7 @@ TrailRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -16
+  m_SortingOrder: -10
   m_Time: 1
   m_Parameters:
     serializedVersion: 3
@@ -473,9 +474,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99839a551c701ad4fa2aa84bc79d8d76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 500
+  maxDistance: 10
   startingMass: 10
-  initialVelocity: {x: 33, y: 0}
+  initialVelocity: {x: 0, y: 0}
+  initialAngularDrag: 0.1
+--- !u!114 &4045388976531302970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7019429747617165823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c8deae30c16344abbfbf247cf37e40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  landingCounter: 0
+  fuelQuantity: 25000
 --- !u!1 &9185032805539012830
 GameObject:
   m_ObjectHideFlags: 0

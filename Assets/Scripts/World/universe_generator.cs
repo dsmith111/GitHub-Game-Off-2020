@@ -21,6 +21,10 @@ public class universe_generator : MonoBehaviour
     [Range(1, 5)]
     int startSpace = 1;
 
+    [SerializeField]
+    [Range(0f, 0.9f)]
+    float spaceDensity = 0.5f;
+
     private ValidObjects valid_objects;
     private int rand;
 
@@ -39,7 +43,15 @@ public class universe_generator : MonoBehaviour
         {
             for(int j = 0; j < size; j++)
             {
-                matrix[i, j] = Random.Range(0, 2);
+                int newVal;
+                if (spaceDensity < Random.value) {
+                    newVal = 0;
+                }
+                else {
+                    newVal = 1;
+                }
+                matrix[i, j] = newVal;
+                
             }
         }
         return matrix;

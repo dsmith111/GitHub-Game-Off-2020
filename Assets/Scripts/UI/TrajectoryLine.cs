@@ -61,7 +61,7 @@ public class TrajectoryLine : MonoBehaviour
             if (tempTrans.y == Mathf.Infinity) { tempTrans.y = 0; }
             pointArray[i].transform.position = new Vector3(tempTrans.x, tempTrans.y, 0);
             Vector3 scaledPoints = new Vector3(mainCamera.orthographicSize * pointSize.x, mainCamera.orthographicSize * pointSize.y, 0);
-            Debug.Log(mainCamera.orthographicSize);
+            //Debug.Log(mainCamera.orthographicSize);
             pointArray[i].transform.localScale = scaledPoints;
         }
         lastVel = gameObject.GetComponent<Rigidbody2D>().velocity;

@@ -20,15 +20,17 @@ public class FuelTrackerUI : MonoBehaviour
         fuelTMPro = GetComponent<TextMeshProUGUI>();
         baseFuel = shipController.maxFuel;
         fuel = shipController.remainingFuel;
-        fuel = (fuel * 100)/baseFuel; //percentage
-        fuelTMPro.text = text + fuel;
+        //fuel = (fuel * 100)/baseFuel; //percentage
+        fuelTMPro.text = text + fuel + " / " + baseFuel;
     }
 
     // Update is called once per frame
     void Update()
     {
-        fuel = (shipController.remainingFuel * 100)/baseFuel;
+        baseFuel = shipController.maxFuel;
+        //fuel = (shipController.remainingFuel * 100)/baseFuel;
+        fuel = shipController.remainingFuel;
         round = System.Math.Round(fuel, 2);
-        fuelTMPro.text = text + round + "%";
+        fuelTMPro.text = text + round + " / " + baseFuel;
     }
 }

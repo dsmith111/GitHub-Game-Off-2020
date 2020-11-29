@@ -50,6 +50,7 @@ public class FinalPlanetGenerator : MonoBehaviour
         GameObject Final = Instantiate(valid_objects.Objects[rand], pos, transform.rotation);
         Final.tag = "final_object";
         Final.name = "Final Object";
+        Final.layer = 9;
     }
 
 }

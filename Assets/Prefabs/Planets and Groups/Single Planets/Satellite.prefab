@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2356002205422260871}
   - component: {fileID: 6275093979067154592}
   m_Layer: 0
-  m_Name: atmosphere (1)
+  m_Name: atmosphereVert
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -965,7 +965,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 3
 --- !u!114 &986852466249126341
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -978,9 +978,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99839a551c701ad4fa2aa84bc79d8d76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 5000
-  startingMass: 4
+  maxDistance: 2000
+  startingMass: 100
   initialVelocity: {x: 0, y: 0}
+  initialAngularDrag: 0.1
 --- !u!58 &986852466249126342
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1011,7 +1012,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shipController: {fileID: 0}
   dockingRangeChecker: {fileID: 0}
-  decelerationTime: 3
+  isDocked: 0
+  decelerationTime: 2
+  atmosphereHor: {fileID: 5217775234761341793}
+  atmosphereVert: {fileID: 217441222347096931}
 --- !u!1 &986852466327807162
 GameObject:
   m_ObjectHideFlags: 0
@@ -1339,7 +1343,7 @@ GameObject:
   - component: {fileID: 7053855016229247455}
   - component: {fileID: 2958795058036832926}
   m_Layer: 0
-  m_Name: atmosphere
+  m_Name: atmosphereHor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1400,7 +1404,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 5358f24a8ee10674495bfe7cbe508e9c, type: 3}
-  m_Color: {r: 0.53598547, g: 0.8265348, b: 0.8396226, a: 1}
+  m_Color: {r: 0.5372549, g: 0.827451, b: 0.8392157, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1426,7 +1430,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7013137687313221378
 Transform:
   m_ObjectHideFlags: 0
@@ -1452,7 +1456,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0, g: 0.79168415, b: 1, a: 1}
+  m_Color: {r: 0, g: 0.7921569, b: 1, a: 1}
   m_Intensity: 5
   m_Range: 40
   m_SpotAngle: 30
@@ -1518,7 +1522,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7754281369028720167
 Transform:
   m_ObjectHideFlags: 0

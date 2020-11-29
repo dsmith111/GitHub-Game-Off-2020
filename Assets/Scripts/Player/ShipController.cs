@@ -8,13 +8,11 @@ public class ShipController : MonoBehaviour
 
     [HideInInspector] public ThrottleUI throttleUI;
     [HideInInspector] public SatelliteController satelliteController;
-
     [HideInInspector] public Rigidbody2D shipRb;
-    [HideInInspector] public Vector2 velocity = Vector2.zero;
-    private Vector2 lastPosition = Vector2.zero;
+    private ShipLanding shipLanding;
 
     //Thrust
-    [SerializeField] float throttle;
+    public float throttle;
     private float maxThrottle = 100;
     [Tooltip("Throttle Input Multiplier")] [SerializeField] float throttleCoefficient = .25f;
     private float throttleMovementMultiplier = 1.5f; //For holding shift while adjusting throttle to move it faster.
@@ -36,6 +34,8 @@ public class ShipController : MonoBehaviour
     private void Start()
     {
         shipRb = GetComponent<Rigidbody2D>();
+        shipLanding = FindObjectOfType<ShipLanding>();
+        satelliteController = FindObjectOfType<SatelliteController>();
         throttleUI.SetMaxValue(maxThrottle);
         remainingFuel = maxFuel;
     }
@@ -73,19 +73,23 @@ public class ShipController : MonoBehaviour
 
         #region rotation
         //Rotation
-        //float zTurnAcceleration = -1 * inputX * horizontalInputAcceleration;
-        transform.Rotate(0, 0, -inputX * horizontalInputAcceleration); 
+        if (!shipLanding.isLanded)
+        {
+            transform.Rotate(0, 0, -inputX * horizontalInputAcceleration); 
+        }
+
         #endregion
 
         #region extra shit
         //Cut Throttle when fuel is empty
         if (throttle > 0 && remainingFuel > 0)
         {
-            remainingFuel -= 1;
+            remainingFuel -= throttle * .25f;
         }
         if(remainingFuel <= 0)
         {
             throttle = 0;
+            remainingFuel = 0;
         }
         #endregion
     }

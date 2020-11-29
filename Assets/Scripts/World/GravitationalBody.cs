@@ -14,6 +14,9 @@ public class GravitationalBody : MonoBehaviour
     [SerializeField]
     public Vector2 initialVelocity;
 
+    [SerializeField]
+    public float initialAngularDrag = 0.1f;
+
     //I use a static list of bodies so that we don't need to Find them every frame
     static List<Rigidbody2D> attractableBodies = new List<Rigidbody2D>();
 
@@ -31,7 +34,7 @@ public class GravitationalBody : MonoBehaviour
 
         GetComponent<Rigidbody2D>().gravityScale = 0f;
         GetComponent<Rigidbody2D>().drag = 0f;
-        GetComponent<Rigidbody2D>().angularDrag = 0f;
+        GetComponent<Rigidbody2D>().angularDrag = initialAngularDrag;
         GetComponent<Rigidbody2D>().mass = startingMass;
         GetComponent<Rigidbody2D>().velocity = initialVelocity;
 
