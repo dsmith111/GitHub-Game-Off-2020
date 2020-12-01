@@ -96,10 +96,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68539fd42e8e5b349ab169b24c307b56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  center_object: {fileID: 0}
-  worldSize: 30
+  sectorDistance: 4000
+  worldSize: 17
   quadrantSpacing: 1
-  startSpace: 1
+  startSpace: 0
+  spaceDensity: 0.1
+  furthestGen: 0
+  generated: 0
 --- !u!114 &7601952693811284840
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112,6 +115,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00a01528cf667ff4fbe7112427e04759, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  worldSize: 30
+  sectorDistance: 4000
   quadrantSpacing: 1
-  startSpace: 1

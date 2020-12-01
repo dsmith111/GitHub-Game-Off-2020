@@ -13,6 +13,8 @@ public class ShipLanding : MonoBehaviour
     private GameObject finalObject;
     private ScoreTracker scoreTracker;
     private PlanetManager planetManager;
+    private GameManager gameManager;
+    private WinScreenUI winScreen;
 
     private ShipController shipController;
     private float previousVelocityMagnitude;
@@ -28,14 +30,16 @@ public class ShipLanding : MonoBehaviour
     {
         shipController = FindObjectOfType<ShipController>();
         finalObject = GameObject.FindGameObjectWithTag("final_object");
-        scoreTracker = GameObject.FindObjectOfType<ScoreTracker>();
-        planetManager = GameObject.FindObjectOfType<PlanetManager>();
+        scoreTracker = FindObjectOfType<ScoreTracker>();
+        planetManager = FindObjectOfType<PlanetManager>();
+        gameManager = FindObjectOfType<GameManager>();
+        winScreen = FindObjectOfType<WinScreenUI>();
     }
 
 
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         previousVelocityMagnitude = shipController.shipRb.velocity.magnitude;
         double previousVelocityMagnitude_Rounded = System.Math.Round(previousVelocityMagnitude, 2);
@@ -47,24 +51,29 @@ public class ShipLanding : MonoBehaviour
 
         if (isLanded)
         {
-            if (planetManager.landingCounter == 1)
+            PlanetManager[] planets = FindObjectsOfType<PlanetManager>();
+            planetManager = NearestBody(planets, new Vector2(transform.position.x, transform.position.y));
+            if (planetManager.landingCounter == 1 && !planetManager.givenScore)
             {
+                planetManager.givenScore = true;
                 int scoreToAdd = LandScoring(previousVelocityMagnitude_Rounded);
                 Debug.Log("Score to add: " + scoreToAdd);
                 scoreTracker.currentScore += scoreToAdd;
+                gameManager.totalLandings++;
             }
         }
 
         if (landedOnFinalPlanet)
         {
-            if(planetManager.landingCounter == 1)
+            //int finalPlanetLandingCounter = finalObject.GetComponent<PlanetManager>().landingCounter;
+            if (finalObject.GetComponent<PlanetManager>().landingCounter == 1)
             {
                 int scoreToAdd = LandScoring(previousVelocityMagnitude_Rounded);
                 Debug.Log("Score to add: " + scoreToAdd);
                 scoreTracker.currentScore += scoreToAdd;
-            }
-            //win screen
-            Debug.Log("you win");
+                gameManager.totalLandings++;
+                winScreen.WinScreen();
+            } 
         }
         else
         {
@@ -91,5 +100,23 @@ public class ShipLanding : MonoBehaviour
         }
 
         return 0;
+    }
+    PlanetManager NearestBody(PlanetManager[] planets, Vector2 position)
+    {
+        PlanetManager bestTarget = null;
+        float closestDistanceSqr = Mathf.Infinity;
+        Vector3 currentPosition = position;
+        foreach (PlanetManager potentialTarget in planets)
+        {
+            Vector3 directionToTarget = potentialTarget.transform.position - currentPosition;
+            float dSqrToTarget = directionToTarget.sqrMagnitude;
+            if (dSqrToTarget < closestDistanceSqr)
+            {
+                closestDistanceSqr = dSqrToTarget;
+                bestTarget = potentialTarget;
+            }
+        }
+
+        return bestTarget;
     }
 }

@@ -231,11 +231,11 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: -1000
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 50
+  orthographic size: 3
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -272,6 +272,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isAboveThreshold: 0
+  enabled_dynamicCamera: 0
   zoomSpeed: 0.75
-  minZoomSize: 20
-  maxZoomSize: 140
+  minZoomSize: 1
+  maxZoomSize: 8

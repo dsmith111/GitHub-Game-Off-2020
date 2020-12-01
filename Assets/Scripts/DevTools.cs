@@ -19,10 +19,10 @@ public class DevTools : MonoBehaviour
     void Update()
     {
         //Refills Fuel
-        if (Input.GetKeyDown(KeyCode.F))
-        {
-            shipController.remainingFuel = shipController.maxFuel;
-        }
+        //if (Input.GetKeyDown(KeyCode.F))
+        //{
+        //    shipController.remainingFuel = shipController.maxFuel;
+        //}
 
         //Restarts Scene
         if (Input.GetKeyUp(KeyCode.R))
@@ -33,7 +33,8 @@ public class DevTools : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.X))
         {
-            shipController.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 0);
+            //shipController.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 0);
+            shipController.throttle = 0;
         }
 
         if (Input.GetKeyDown(KeyCode.Space))

@@ -23,11 +23,6 @@ public class ScoreTracker : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        waitTime = waitTime - Time.deltaTime;
-        if (waitTime <= 0)
-        {
-            currentScore++;
-            waitTime = 5f;
-        }
+
     }
 }

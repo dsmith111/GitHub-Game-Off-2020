@@ -31,3 +31,11 @@ ehthumbs.db
 [Bb]uild
 sysinfo.txt
 *.stackdump
+
+Assets/AllIn1SpriteShader/*
+Assets/Brackeys/*
+Assets/Plugins/*
+Assets/Plugins/GitHub/*
+Assets/Plugins/GitHub/Editor/*
+Assets/Plugins/GitHub/Editor/x64/*
+Assets/Plugins/GitHub/Editor/x86/*

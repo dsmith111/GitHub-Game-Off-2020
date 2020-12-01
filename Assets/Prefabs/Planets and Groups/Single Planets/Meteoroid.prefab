@@ -492,6 +492,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   landingCounter: 0
   fuelQuantity: 25000
+  givenScore: 0
 --- !u!1 &9185032805539012830
 GameObject:
   m_ObjectHideFlags: 0
@@ -564,7 +565,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 5358f24a8ee10674495bfe7cbe508e9c, type: 3}
-  m_Color: {r: 1, g: 0.802935, b: 0.53459114, a: 0.23529412}
+  m_Color: {r: 1, g: 0.802935, b: 0.53459114, a: 0.7647059}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

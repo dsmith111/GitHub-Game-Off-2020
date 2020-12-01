@@ -85,7 +85,7 @@ public class SatelliteController : MonoBehaviour
 
     void DockingSpeedCheck()
     {
-        float magnitudeRange = 30f;
+        float magnitudeRange = 50f;
         float relativeMagnitude = shipController.shipRb.velocity.magnitude - satelliteRb.velocity.magnitude;
 
         if (relativeMagnitude <= magnitudeRange)
@@ -134,7 +134,7 @@ public class SatelliteController : MonoBehaviour
                     LockPosition();
                     Refuel();
                 }
-            }else if(shipController.throttle >= 1f)
+            }else if(shipController.throttle >= 1f && (shipController.transform.position - transform.position).magnitude < 10)
             {
                 undocking = true;
             }
@@ -142,6 +142,7 @@ public class SatelliteController : MonoBehaviour
         else if((inSatelliteAtmos && undocking) || refuelComplete)
         {
             gameObject.GetComponent<GravitationalBody>().enabled = false;
+            gameObject.tag = "Untagged";
         }
     }
 }

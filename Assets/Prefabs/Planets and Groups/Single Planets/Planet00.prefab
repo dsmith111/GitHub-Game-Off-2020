@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 385933314008563588}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.5, y: 5.5, z: -78.2}
+  m_LocalPosition: {x: -5.5, y: 5.5, z: -200}
   m_LocalScale: {x: 4, y: 4, z: 1}
   m_Children: []
   m_Father: {fileID: 1603630635926852857}
@@ -43,8 +43,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.76100624, b: 0.76100624, a: 1}
-  m_Intensity: 5.7
-  m_Range: 433.2
+  m_Intensity: 8
+  m_Range: 400
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -384,6 +384,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   landingCounter: 0
   fuelQuantity: 30000
+  givenScore: 0
 --- !u!1 &8762232259372960142
 GameObject:
   m_ObjectHideFlags: 0
@@ -456,7 +457,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 5358f24a8ee10674495bfe7cbe508e9c, type: 3}
-  m_Color: {r: 0.8352942, g: 0.70980394, b: 0.59607846, a: 0.23529412}
+  m_Color: {r: 0.8352942, g: 0.70980394, b: 0.59607846, a: 0.654902}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

@@ -9,6 +9,7 @@ public class PlanetManager : MonoBehaviour
 
     private ShipLanding shipLanding;
     private ShipController shipController;
+    public bool givenScore = false;
 
     private void Start()
     {

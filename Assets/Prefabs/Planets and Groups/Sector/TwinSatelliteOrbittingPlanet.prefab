@@ -60,6 +60,11 @@ PrefabInstance:
       propertyPath: maxDistance
       value: 500
       objectReference: {fileID: 0}
+    - target: {fileID: 986852466249126343, guid: ba1e2c1973f7759478f1babcdb0b4d21,
+        type: 3}
+      propertyPath: decelerationTime
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 986852466249126346, guid: ba1e2c1973f7759478f1babcdb0b4d21,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -229,6 +234,11 @@ PrefabInstance:
         type: 3}
       propertyPath: maxDistance
       value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 986852466249126343, guid: ba1e2c1973f7759478f1babcdb0b4d21,
+        type: 3}
+      propertyPath: decelerationTime
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 986852466249126346, guid: ba1e2c1973f7759478f1babcdb0b4d21,
         type: 3}

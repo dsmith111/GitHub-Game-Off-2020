@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 using Image = UnityEngine.UI.Image;
 
 public class GravityIndicator : MonoBehaviour
@@ -124,8 +125,10 @@ public class GravityIndicator : MonoBehaviour
 
     void GravitationalAcceleration(Vector2 currentPosition)
     {
+        GameObject[] NearG = GameObject.FindGameObjectsWithTag("gbody");
+        GameObject[] FinalObjects = GameObject.FindGameObjectsWithTag("final_object");
+        GameObject[] NearObjects = NearG.Concat(FinalObjects).ToArray();
 
-        GameObject[] NearObjects = GameObject.FindGameObjectsWithTag("gbody");
         ClosestBody = NearestBody(NearObjects, currentPosition);
         distance = (currentPosition - new Vector2(ClosestBody.transform.position.x, ClosestBody.transform.position.y));
 

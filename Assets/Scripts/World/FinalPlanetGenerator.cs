@@ -10,9 +10,6 @@ public class FinalPlanetGenerator : MonoBehaviour
     [SerializeField]
     int sectorDistance = 5000;
 
-    [SerializeField]
-    int worldSize = 10;
-
     [Header("Quadrant Spacing Multiplier")]
     [SerializeField]
     [Range(1, 5)]
@@ -20,29 +17,37 @@ public class FinalPlanetGenerator : MonoBehaviour
 
     private ValidObjects valid_objects;
     private int rand;
+    private int furthestGen = 0;
 
     // Start is called before the first frame update
-    void Start()
+
+    void Update()
     {
-        valid_objects = GameObject.FindGameObjectWithTag("valid_final_objects").GetComponent<ValidObjects>();
-        GenerateSystem(worldSize);
+        if (GetComponent<universe_generator>().generated) {
+            valid_objects = GameObject.FindGameObjectWithTag("valid_final_objects").GetComponent<ValidObjects>();
+            furthestGen = GetComponent<universe_generator>().furthestGen;
+            GenerateSystem();
+        }
     }
 
 
 
     // Generate System
-    void GenerateSystem(int size)
+    void GenerateSystem()
     {
         Vector2 pos = new Vector2(0, 0);
-        int x = Random.Range(-1, 2);
-        x *= (size+1);
+        float x = Random.Range(-1, 2);
+        x *= (furthestGen)/2;
+        x += 0.75f;
 
-        int y = Random.Range(-1, 2);
-        y *= (size+1);
+        float y = Random.Range(-1, 2);
+        y *= (furthestGen) /2;
+        y += 0.75f;
 
-        if(x==0 && y == 0)
+        if (x==0 && y == 0)
         {
-            x = (size + 1);
+            x = (furthestGen) /2;
+            x += 0.75f;
         }
 
         pos.Set(transform.position.x + (x * sectorDistance * quadrantSpacing), transform.position.y + (y * sectorDistance * quadrantSpacing));
@@ -51,6 +56,7 @@ public class FinalPlanetGenerator : MonoBehaviour
         Final.tag = "final_object";
         Final.name = "Final Object";
         Final.layer = 9;
+        GetComponent<FinalPlanetGenerator>().enabled = false;
     }
 
 }

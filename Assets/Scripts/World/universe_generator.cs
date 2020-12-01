@@ -27,6 +27,10 @@ public class universe_generator : MonoBehaviour
 
     private ValidObjects valid_objects;
     private int rand;
+    [HideInInspector]
+    public int furthestGen = 0;
+    [HideInInspector]
+    public bool generated = false;
 
     // Start is called before the first frame update
     void Start()
@@ -36,44 +40,49 @@ public class universe_generator : MonoBehaviour
     }
 
     // Binary Matrix Generator
-    int[,] BMatrix(int size)
-    {
-        int[,] matrix = new int[size,size];
-        for(int i = 0; i < size; i++)
-        {
-            for(int j = 0; j < size; j++)
-            {
-                int newVal;
-                if (spaceDensity < Random.value) {
-                    newVal = 0;
-                }
-                else {
-                    newVal = 1;
-                }
-                matrix[i, j] = newVal;
+    //int[,] BMatrix(int size)
+    //{
+    //    int[,] matrix = new int[size,size];
+    //    for(int i = 0; i < size; i++)
+    //    {
+    //        for(int j = 0; j < size; j++)
+    //        {
+    //            int newVal;
+    //            if (spaceDensity < Random.value) {
+    //                newVal = 0;
+    //            }
+    //            else {
+    //                newVal = 1;
+    //                if(Mathf.Max(i, j) + (size / 2) > furthestGen)
+    //                {
+    //                    Debug.Log(furthestGen);
+    //                    furthestGen = Mathf.Max(i, j) + (size/2);
+    //                }
+    //            }
+    //            matrix[i, j] = newVal;
                 
-            }
-        }
-        return matrix;
+    //        }
+    //    }
+    //    return matrix;
 
-    }
+    //}
 
     // Clean Up Matrix
-    int [,] CleanMatrix(int[,] bmatrix, int size)
-    {
-        for (int i = 0; i < size; i++)
-        {
-            for (int j = 0; j < size; j++)
-            {
-                if (bmatrix[i,j] == 1)
-                {
-                    // Check neighbors
-                    bmatrix[i,j] = CheckNeighbors(bmatrix, i, j, size);
-                }
-            }
-        }
-        return bmatrix;
-    }
+    //int [,] CleanMatrix(int[,] bmatrix, int size)
+    //{
+    //    for (int i = 0; i < size; i++)
+    //    {
+    //        for (int j = 0; j < size; j++)
+    //        {
+    //            if (bmatrix[i,j] == 1)
+    //            {
+    //                // Check neighbors
+    //                bmatrix[i,j] = CheckNeighbors(bmatrix, i, j, size);
+    //            }
+    //        }
+    //    }
+    //    return bmatrix;
+    //}
 
     // Check Neighbors
     int CheckNeighbors(int[,] bmatrix, int i, int j, int size)
@@ -121,21 +130,34 @@ public class universe_generator : MonoBehaviour
                 {
                     continue;
                 }
-                bmatrix[i, j] = Random.Range(0, 2);
+                int newVal;
+                if (spaceDensity < Random.value)
+                {
+                    newVal = 0;
+                }
+                else
+                {
+                    newVal = 1;
+                    if (Mathf.Max(i, j)> furthestGen)
+                    {
+                        furthestGen = Mathf.Max(i, j);
+                    }
+                }
+                bmatrix[i, j] = newVal;
             }
         }
 
-         for (int i = 0; i < size; i++)
-        {
-            for (int j = 0; j < size; j++)
-            {
-                if (bmatrix[i, j] == 1)
-                {
-                    // Check neighbors
-                    bmatrix[i, j] = (CheckNeighbors(bmatrix, i, j, size));
-                }
-            }
-        }
+        //for (int i = 0; i < size; i++)
+        //{
+        //    for (int j = 0; j < size; j++)
+        //    {
+        //        if (bmatrix[i, j] == 1)
+        //        {
+        //            // Check neighbors
+        //            bmatrix[i, j] = (CheckNeighbors(bmatrix, i, j, size));
+        //        }
+        //    }
+        //}
 
         //----------------------------------------------------End of Imported Functions
         // int[,] cleanmat = CleanMatrix(bmatrix, worldSize);
@@ -162,5 +184,6 @@ public class universe_generator : MonoBehaviour
                 }
             }
         }
+        generated = true;
     }
 }

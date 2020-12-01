@@ -10,6 +10,11 @@ TagManager:
   - valid_final_objects
   - final_object
   - trajectory
+  - UI_gravityIndicator
+  - blackhole
+  - whitehole
+  - settings
+  - buttons
   layers:
   - Default
   - TransparentFX
@@ -20,7 +25,7 @@ TagManager:
   - 
   - 
   - Planet
-  - 
+  - Final Object
   - 
   - 
   - 
@@ -55,4 +60,7 @@ TagManager:
     locked: 0
   - name: Logic
     uniqueID: 1612624945
+    locked: 0
+  - name: UI
+    uniqueID: 3073085647
     locked: 0
